@@ -11,7 +11,7 @@ This project was built during the scrimba frontend course. Feel free to enjoying
 
 ## Credits
 
-Thanks to [Scirmba Community](https://scrimba.com) for creating an awesome frontend development course from scratch. This allow me improve my programming skills a lot.
+Thanks to [Scrimba Community](https://scrimba.com) for creating an awesome frontend development course from scratch. This allow me improve my programming skills a lot.
 
 ## Copyrigth
 
