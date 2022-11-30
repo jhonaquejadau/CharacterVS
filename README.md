@@ -1,4 +1,21 @@
-# co6e94659b64788e68fe6eb8d
+# CHARACTER VS GAME
+
+This project was built during the scrimba frontend course. Feel free to enjoying the game!!
+
+## Screenshots
+
+<img src="./imagesApp/home.PNG" alt="home">
+<img src="./imagesApp/game_second.PNG" alt="game">
+<img src="./imagesApp/game_third.PNG" alt="game second">
+<img src="./imagesApp/end_game.PNG" alt="end game">
+
+## Credits
+
+Thanks to [Scirmba Community](https://scrimba.com) for creating an awesome frontend development course from scratch. This allow me improve my programming skills a lot.
+
+## Copyrigth
+
+This project is just for enjoying the game, not commercial o professional purposes.
 
 ## About Scrimba
 
