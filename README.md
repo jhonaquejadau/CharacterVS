@@ -4,7 +4,10 @@ This project was built during the scrimba frontend course. Feel free to enjoying
 
 ## Screenshots
 
+*** `Home` ***
 <img src="./imagesApp/home.PNG" alt="home">
+
+*** `Game` ***
 <img src="./imagesApp/game_second.PNG" alt="game">
 <img src="./imagesApp/game_third.PNG" alt="game second">
 <img src="./imagesApp/end_game.PNG" alt="end game">
